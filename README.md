@@ -1,4 +1,10 @@
+<p align="center" >
+  <b>Microgateway Action includes content-based conditional routing and common microgateway patterns such as JWT validator, rate limiter, circuit breaker</b>
+</p>
+
+
 [![godoc](https://godoc.org/github.com/project-flogo/microgateway?status.svg)](https://godoc.org/github.com/project-flogo/microgateway)
+
 
 # Microgateway Action
 
